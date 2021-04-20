@@ -1,0 +1,233 @@
+{
+  font: 'Montserrat';
+}
+ul
+{
+    margin-left:auto;
+    text-align:left;
+}
+#title
+{
+  background-color: #ff4c68;
+}
+.container-fluid
+{
+
+}
+.heading
+{
+font-family: 'Montserrat', sans-serif;
+color: white;
+  font-size: 4rem;
+   line-height: 1.5;
+}
+.down-heading
+{
+  font-family: 'Montserrat', sans-serif;
+  color:#ec6d5b;
+    font-size: 4rem;
+     line-height: 1.5;
+}
+.down-heading:hover
+{
+  color:#ff4c68;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 500px;
+    line-height: 1.5;
+}
+h3
+{
+  font-family:  'Montserrat';
+  font-weight : bold;
+  font-size: 5rem;
+}
+h6
+{
+  color: #ec6d5b	;
+  font-family:  'Montserrat';
+  font-weight : bold;
+}
+h6:hover
+{
+  color: #ff4c68	;
+  font-family:  'Montserrat';
+  font-weight : bold;
+}
+.container
+{
+    padding:3px 15px;
+}
+.dog-phone
+{
+  margin: 0 150px;
+  height: 75%;
+}
+.navbar-brand
+{
+font-family: 'Ubuntu', sans-serif;
+font-size: 100px;
+font-weight: bold;
+margin-left: 50px;
+}
+
+.navbar
+{
+  padding-bottom: 15px;
+}
+.nav-item
+{
+  padding: 0px 15px;
+}
+.Download-button
+{
+  margin : 5% 5%;
+}
+.title-body
+{
+  padding-top: 1%;
+}
+.icon-1,.icon-2,.icon-3
+{
+  color: #ec6d5b;
+  margin: 25%;
+
+}
+.icon-1:hover,.icon-2:hover,.icon-3:hover
+{
+  color:  #ff4c68;
+}
+#features
+{
+  padding: 7% 15%;
+}
+.feature-box
+{
+  text-align: center;
+}
+
+#testimonials
+{
+  padding: 5% 15%;
+  text-align: center;
+  background-color: #ec6d5b;
+  color: white;
+}
+#testimonials:hover
+{
+  background-color: #ff4c68;
+}
+.testi-img
+{
+  width:10%;
+  padding-top:  3%;
+  border-radius:  100%;
+}
+
+.press
+{
+  padding: 5% 15%;
+  text-align: center;
+
+}
+.press-img
+{
+  padding: 0% 5%;
+  width : 30%;
+}
+em
+{
+  padding: 20px;
+}
+.carousel-item
+{
+  padding: 7% 15%;
+}
+
+.carousel-control-prev,.carousel-control-next
+{
+  margin: 0% -20%;
+}
+.card
+{
+  display: inline;
+  text-align: center;
+  font-size: 97%;
+  margin: 10%;
+
+
+
+}
+.card:hover
+{
+  background-color: #D3D3D3;
+  margin-top: 10%;
+}
+#Pricing
+{
+  background-color: #ec6d5b;
+  padding: 5% 15%;
+  text-align: center;
+}
+#Pricing:hover
+{
+  background-color: #ff4c68;
+}
+.Pricing-subtext
+{
+  color:#DCDCDC	;
+  margin-left: 1%;
+}
+
+@media(max-width:1028px)
+{
+  #Title
+  {
+    text-align: center;
+  }
+  .dog-phone
+  {
+    text-align: center;
+
+  }
+}
+#Outro
+{
+  background-color: #ec6d5b;
+  padding: 2% 15% 3%;
+  text-align: center;
+  line-height: 2.5;
+
+}
+#Outro:hover
+{
+  background-color: #ff4c68;
+  padding: 2% 15% 3%;
+  text-align: center;
+  line-height: 2.5;
+
+}
+
+.outro-icon
+{
+  margin: 1.75%;
+}
+
+.credit
+{
+  font-family:  'Montserrat';
+  font-weight : bold;
+  color: white;
+}
+.Download-button-2
+{
+  background-color: #ff4c68;
+}
+#Downloads
+{
+  padding: 5% 8% 3%;
+  text-align: center;
+}
